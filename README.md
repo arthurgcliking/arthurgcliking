@@ -1,6 +1,6 @@
 Salut, c'est Arthur ! 👋
 
-Futur Data Scientist @Epitech & Full Stack Developer
+Futur Data Analyst/Scientist @Epitech & Full Stack Developer
 
 Je suis un développeur passionné par la transformation de la donnée brute en valeur métier. Après 2 ans d'alternance à concevoir des pipelines de données et des dashboards analytiques, je me spécialise désormais en Data Science & Business Intelligence.
 
