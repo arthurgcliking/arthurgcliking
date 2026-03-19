@@ -8,7 +8,7 @@ Je suis un développeur passionné par la transformation de la donnée brute en 
 
 Je prépare mon entrée en MSc Data Science & BI à Epitech (Rentrée 2026).
 
-Je commence à me former sur la stack Python Data : Pandas, Scikit-learn, Seaborn.
+Je consolide ma stack Data (Python, SQL, Power BI) à travers un projet d'analyse financière (data-project).
 
 Je recherche une alternance de 2 ans (Rythme : 4 jours entreprise / 1 jour école) pour appliquer mes compétences en Machine Learning et Data Engineering.
 
