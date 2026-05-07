@@ -1,16 +1,14 @@
 Salut, c'est Arthur ! 👋
 
-Futur Data Analyst/Scientist @Epitech & Full Stack Developer
+Data Analyst & Full Stack Developer
 
-Je suis un développeur passionné par la transformation de la donnée brute en valeur métier. Après 2 ans d'alternance à concevoir des pipelines de données et des dashboards analytiques, je me spécialise désormais en Data Science & Business Intelligence.
+Je suis un développeur passionné par la transformation de la donnée brute en valeur métier. Après 2 ans à concevoir des pipelines de données et des dashboards analytiques, je me spécialise désormais en Data Science & Business Intelligence.
 
 🔭 En ce moment
 
 Je prépare mon entrée en MSc Data Science & BI à Epitech (Rentrée 2026).
 
 Je consolide ma stack Data (Python, SQL, Power BI) à travers un projet d'analyse financière (data-project).
-
-Je recherche une alternance de 2 ans (Rythme : 4 jours entreprise / 1 jour école) pour appliquer mes compétences en Machine Learning et Data Engineering.
 
 💼 Expérience (Cliking)
 En tant que Dev Full-Stack sur une solution SaaS B2B, j'ai géré des volumes de données importants pour des grands comptes (Eiffage, Edenred).
