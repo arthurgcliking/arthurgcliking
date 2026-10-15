@@ -6,7 +6,7 @@ Je suis un développeur passionné par la transformation de la donnée brute en 
 
 🔭 En ce moment
 
-Je prépare mon entrée en MSc Data Science & BI à Epitech (Rentrée 2026).
+Je prépare mon entrée en MBA Data Science & BI à Epitech (Rentrée 2026).
 
 Je consolide ma stack Data (Python, SQL, Power BI) à travers un projet d'analyse financière (data-project).
 
